@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @jvDev0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello World! 
 
-<!---
-jvDev0/jvDev0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Jay Vang and I am an inspiring front-end developer! I am currently enrolled
+in The Odin Project; as it will guide me on my path to reach my goal! Skills I am currently
+learning are HTML, CSS, and Javascript. After the Odin Project, I plan on learning React.js, 
+SASS, and Typescript. Please check out my projects and contribution as I journey on this path
+to becoming a terrific developer! 
